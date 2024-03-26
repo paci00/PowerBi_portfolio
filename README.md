@@ -26,7 +26,8 @@ dataset used: https://www.kaggle.com/datasets/mexwell/famous-paintings
 
    View:   
 
-![image](https://github.com/paci00/PowerBi_portfolio/assets/153626884/f798fe81-4231-46ab-947c-046e3a682e46)
+![image](https://github.com/paci00/PowerBi_portfolio/assets/153626884/ad8e64fb-dcf2-48fc-8710-4ac3267eebdb)
+
 
 
 
