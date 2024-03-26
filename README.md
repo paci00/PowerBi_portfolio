@@ -4,5 +4,14 @@ linkt to dataset: https://www.kaggle.com/datasets/shivamb/netflix-shows
 
    View:   
 
-![image](https://github.com/paci00/PowerBi_portfolio/assets/153626884/f10bb83d-f5e7-41d2-b095-89a794803b86)
+![image](https://github.com/paci00/PowerBi_portfolio/assets/153626884/f10bb83d-f5e7-41d2-b095-89a794803b86)   
+
+# Amazon Prime Movies and TV Shows dashboard project 
+dataset used: amazon_prime_titles     
+linkt to dataset: https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
+
+   View:   
+
+![image](https://github.com/paci00/PowerBi_portfolio/assets/153626884/06da7009-e0ac-4ef1-9a6b-707477a78430)
+
 
