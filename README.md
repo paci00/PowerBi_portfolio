@@ -12,6 +12,6 @@ linkt to dataset: https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-an
 
    View:   
 
-![image](https://github.com/paci00/PowerBi_portfolio/assets/153626884/06da7009-e0ac-4ef1-9a6b-707477a78430)
+![image](https://github.com/paci00/PowerBi_portfolio/assets/153626884/a5078c87-d479-468f-9952-7d5a434e94b4)
 
 
