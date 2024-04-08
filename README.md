@@ -27,6 +27,11 @@ dataset: https://www.kaggle.com/datasets/mexwell/famous-paintings
 
 ![image](https://github.com/paci00/PowerBi_portfolio/assets/153626884/ad8e64fb-dcf2-48fc-8710-4ac3267eebdb)
 
+# Social media dashboard project    
+dataset: https://www.kaggle.com/datasets/imyjoshua/average-time-spent-by-a-user-on-social-media?resource=download    
+View:   
+   
+![320579643-14519fdf-d212-41a2-8048-19006fc16c60](https://github.com/paci00/PowerBi_portfolio/assets/153626884/7be67d86-de0a-41ed-842b-d533d6b50591)
 
 
 
